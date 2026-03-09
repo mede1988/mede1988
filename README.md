@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mede1988
 - 👀 I’m interested in many different things that the world has to offer.
-- 🌱 I’m currently learning machine learning.
+- 🌱 I’m currently into nothing specific.
 - 💞️ I’m looking to collaborate on ... well I really don't know.
 - 📫 How to reach me ... via git or mail
 - 😄 Pronouns: he/him
